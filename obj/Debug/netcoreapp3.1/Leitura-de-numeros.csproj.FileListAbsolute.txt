@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\bin\Debug\netcoreapp3.1\Leitura-de-numeros.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Leitura-de-numeros\obj\Debug\netcoreapp3.1\Leitura-de-numeros.genruntimeconfig.cache
